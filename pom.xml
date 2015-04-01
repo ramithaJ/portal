@@ -84,7 +84,13 @@
         </dependency>
 
     </dependencies>
-
+	<repositories>
+		<repository>
+			<id>wiley-maven</id>
+			<name>wiley maven</name>
+			<url>http://build.wiley.com/nexus/content/repositories/central/</url>
+		</repository>
+	</repositories>
     <build>
         <finalName>author-services</finalName>
         <plugins>
