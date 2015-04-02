@@ -1,0 +1,32 @@
+{
+  "name": "WileyAuthorsWeb",
+  "version": "0.0.1",
+  "description": "Wiley Authors Web",
+  "main": "index.html",
+  "keywords": [
+    "wiley",
+    "author",
+    "services"
+  ],
+  "authors": [
+    "virtusa"
+  ],
+  "license": "Wiley",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.15.1",
+    "sinonjs": "~1.7.1"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.9"
+  }
+}

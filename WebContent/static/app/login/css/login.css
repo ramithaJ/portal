@@ -1,0 +1,9 @@
+.login-form{
+	width: 380px;
+} 
+
+.form-signin-heading{
+	font-family: verdana; 
+	color:white;
+	padding: 28px;
+}

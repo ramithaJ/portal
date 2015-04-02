@@ -1,0 +1,22 @@
+
+
+.wiley-author-background{
+	background-image: url(../img/was-pen-bg.jpg);
+}
+
+
+.authors-main-window{
+	height: 582px;
+} 
+
+.welcome-title{
+	font-family: verdana; 
+	color:white; 
+	padding: 30px; 
+	border-radius: 10px;
+}
+
+.welcome-submit{
+	border-color: grey; 
+	color:white;
+}
